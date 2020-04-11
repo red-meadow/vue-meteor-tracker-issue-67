@@ -1,0 +1,13 @@
+{
+  "name": "vue-meteor-tracker-issue-67",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.9.2",
+    "meteor-node-stubs": "^1.0.0",
+    "vue": "^2.6.11",
+    "vue-meteor-tracker": "^2.0.0-beta.5"
+  }
+}
